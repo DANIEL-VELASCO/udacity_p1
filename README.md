@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-In order to run the code you should count with the following libraries: pandas, numpy, seabor, matplotlib,
+In order to run the code you should count with the following libraries: pandas, numpy, seaborn, matplotlib,
 harversine and folium
 
 ## Project Motivation<a name="motivation"></a>
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook called "project1.ipynb" where you can find the step-by-step process I made in order to answer the
+There is a notebook called "project1.ipynb" where you can find the step-by-step process I made in order to answer the
 previously mentioned questions
 
 ## Results<a name="results"></a>
